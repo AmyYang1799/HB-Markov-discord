@@ -84,5 +84,5 @@ async def on_message(message):
         await message.channel.send('Hello!')
 
 
-client.run('NzYzNDk3Mjc2MDU5NTQ5NzI2.X34kPw.L36CZFz6vwmXTrJ8JBFtVVvC1hA')
+client.run(DISCORD_TOKEN)
 
